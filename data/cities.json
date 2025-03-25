@@ -1,0 +1,160 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "85ea",
+      "cityName": "Blancas",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-22T09:53:34.310Z",
+      "notes": "Yes",
+      "position": {
+        "lat": "40.86432354097848",
+        "lng": "-1.4941210062141244"
+      }
+    },
+    {
+      "id": "f85b",
+      "cityName": "Illorai",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2025-03-25T08:29:05.664Z",
+      "notes": "yes",
+      "position": {
+        "lat": "40.411747197777444",
+        "lng": "8.942744301668249"
+      }
+    },
+    {
+      "id": "5cc3",
+      "cityName": "Val-Fouzon",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-03-25T08:29:56.079Z",
+      "notes": "yes",
+      "position": {
+        "lat": "47.1861651689478",
+        "lng": "1.6699191928285952"
+      }
+    },
+    {
+      "id": "26d1",
+      "cityName": "Chozas de Abajo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-25T09:23:38.790Z",
+      "notes": "yes",
+      "position": {
+        "lat": "42.487146676650966",
+        "lng": "-5.712811825400254"
+      }
+    },
+    {
+      "id": "87db",
+      "cityName": "Valence-en-Poitou",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-03-25T09:23:51.388Z",
+      "notes": "",
+      "position": {
+        "lat": "46.27031505293483",
+        "lng": "0.2196419983948017"
+      }
+    },
+    {
+      "id": "bb94",
+      "cityName": "Gladenbach",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2025-03-25T09:23:56.034Z",
+      "notes": "",
+      "position": {
+        "lat": "50.80553431435857",
+        "lng": "8.569217467720176"
+      }
+    },
+    {
+      "id": "5ff2",
+      "cityName": "Machakos",
+      "country": "Kenya",
+      "emoji": "🇰🇪",
+      "date": "2025-03-25T09:24:09.057Z",
+      "notes": "",
+      "position": {
+        "lat": "-1.5242518624639363",
+        "lng": "37.26425229317456"
+      }
+    },
+    {
+      "id": "f500",
+      "cityName": "Mitaboni",
+      "country": "Kenya",
+      "emoji": "🇰🇪",
+      "date": "2025-03-25T09:25:08.167Z",
+      "notes": "",
+      "position": {
+        "lat": "-1.4075272164333685",
+        "lng": "37.28622401509207"
+      }
+    },
+    {
+      "id": "a631",
+      "cityName": "Athi River",
+      "country": "Kenya",
+      "emoji": "🇰🇪",
+      "date": "2025-03-25T09:25:11.253Z",
+      "notes": "",
+      "position": {
+        "lat": "-1.3842128205856818",
+        "lng": "37.08435337592299"
+      }
+    },
+    {
+      "id": "6407",
+      "cityName": "Nairobi",
+      "country": "Kenya",
+      "emoji": "🇰🇪",
+      "date": "2025-03-25T09:25:14.757Z",
+      "notes": "",
+      "position": {
+        "lat": "-1.2825961765061868",
+        "lng": "37.01294041297464"
+      }
+    },
+    {
+      "id": "6cd5",
+      "cityName": "Ruiru",
+      "country": "Kenya",
+      "emoji": "🇰🇪",
+      "date": "2025-03-25T09:25:17.672Z",
+      "notes": "",
+      "position": {
+        "lat": "-1.112327235653413",
+        "lng": "36.94496245953973"
+      }
+    }
+  ]
+}
